@@ -15,7 +15,7 @@ This was a basic visualization of the data of humidity in an area of sikta from 
 
 <p align="center">
 Visualization <br/>
-<img src="https://i.imgur.com/yKcuqX2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/32RCO7e.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <br />
