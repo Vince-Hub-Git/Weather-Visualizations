@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-This was a basic visualization of the data of humidity in an area of sikta from 2018 to 2019 
+This was a basic visualization of the data of humidity in an area of Sikta from 2018 to 2019 
 
 
 <h2>Languages and Utilities Used</h2>
